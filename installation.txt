@@ -22,4 +22,20 @@ Following entries should be changed:
 
 - <url> the url to follow
 
+### SOME STANDARDS BUTTONS, YOU CAN USE ###
+
+http://maniacdn.net/ramires/uaseco/social-media/icons-discord.png
+http://maniacdn.net/ramires/uaseco/social-media/icons-facebook.png
+http://maniacdn.net/ramires/uaseco/social-media/icons-twitter.png
+http://maniacdn.net/ramires/uaseco/social-media/icons-google-plus.png
+http://maniacdn.net/ramires/uaseco/social-media/icons-youtube.png
+
+# THE HOVER BUTTONS
+
+http://maniacdn.net/ramires/uaseco/social-media/icons-discord-focus.png
+http://maniacdn.net/ramires/uaseco/social-media/icons-facebook-focus.png
+http://maniacdn.net/ramires/uaseco/social-media/icons-twitter-focus.png
+http://maniacdn.net/ramires/uaseco/social-media/icons-google-plus-focus.png
+http://maniacdn.net/ramires/uaseco/social-media/icons-youtube-focus.png
+
 THATS IT. HOPE YOU ENJOY!
