@@ -1,0 +1,25 @@
+### INSTALLATION GUIDE ###
+
+1. UPLOAD FOLDERS "config" and "plugins" TO YOUR UASECO INSTALLATION
+
+2. ADD <plugin>plugin.social_media.php</plugin> TO THE plugins.xml IN CONFIG FOLDER
+
+3. RESTART YOUR Uaseco INSTALLATION
+
+4. FOR FIRST START A DEFAULT ICON AND URL IS SET
+
+### EDIT "config/social_media.xml TO YOUR NEEDS. YOU CAN CHECK YOUR SETTINGS WITH CHAT COMMAND "/socialreload". NO RESTART OF Uaseco IS NEEDED! ###
+
+Following entries should be changed:
+
+- <height> and <width> based on the buttons you want to use
+
+- <pos_y> in "race" and "score" mode (vertical position of your slider
+
+- <icon> the link to your icon
+
+- <icon_focus> the link to your focus (hover) icon (you can leave emtpy for static view)
+
+- <url> the url to follow
+
+THATS IT. HOPE YOU ENJOY!
