@@ -124,7 +124,7 @@ class PluginSocialMedia extends Plugin {
 
 		$xml .= '<quad pos="0 0" z-index="0.001" size="'. (($command_amount * ($width + 0.75)) + 25) .' ' . ($height + 5) .'" bgcolor="55556699" bgcolorfocus="555566BB" ScriptEvents="1"/>';
 		$xml .= '<quad pos="'. (($command_amount * ($width + 0.75)) + 16.5) .' -' . ($height / 2) .'" z-index="0.002" size="6 6" style="'. $this->config['WIDGET'][0]['ICON_STYLE'][0] .'" substyle="'. $this->config['WIDGET'][0]['ICON_SUBSTYLE'][0] .'"/>';
-		$xml .= '<label pos="'. (($command_amount * ($width + 0.75)) + 14.25) .' -' . ($height + 2) .'" z-index="0.1" size="37.5 0" class="labels" halign="right" textcolor="FC0F" scale="0.8" text="Social-Media/'. $this->getVersion() .'" url="http://www.sacha.lehmann.de/UASECO/social-media.php"/>';
+		$xml .= '<label pos="'. (($command_amount * ($width + 0.75)) + 14.25) .' -' . ($height + 2) .'" z-index="0.1" size="37.5 0" class="labels" halign="right" textcolor="FC0F" scale="0.8" text="Social-Media/'. $this->getVersion() .'" url="https://github.com/tmframires/uaseco-social-media"/>';
 		$xml .= '<quad pos="4 -' . ($height / 2) .'" z-index="0.2" size="8.75 6.6" style="Icons128x128_1" substyle="BackFocusable" ScriptEvents="1"/>';
 
 		$offset = 14.25; //Distance to the left arrow
