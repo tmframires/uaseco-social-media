@@ -8,7 +8,7 @@
 
 4. FOR FIRST START A DEFAULT ICON AND URL IS SET
 
-### EDIT "config/social_media.xml TO YOUR NEEDS. YOU CAN CHECK YOUR SETTINGS WITH CHAT COMMAND "/socialreload". NO RESTART OF Uaseco IS NEEDED! ###
+### EDIT "config/social_media.xml TO YOUR NEEDS. YOU CAN CHECK YOUR SETTINGS WITH CHAT COMMAND "/socialreload". NO RESTART OF Uaseco IS NEEDED! SOMETIMES A MAP CHANGE WILL DO THE REST ###
 
 Following entries should be changed:
 
