@@ -27,7 +27,7 @@
 	<commands>
 		<entry>
 			<icon>http://maniacdn.net/ramires/uaseco/social-media/icons-default.png</icon> 				<!-- LINK TO YOUR ICON -->
-			<icon_focus>http://maniacdn.net/ramires/social-media/icons-default-focus.png</icon_focus> 	<!-- LINK TO YOUR FOCUS ICON, FOR NONE LEAVE EMPTY -->
+			<icon_focus>http://maniacdn.net/ramires/uaseco/social-media/icons-default-focus.png</icon_focus> 	<!-- LINK TO YOUR FOCUS ICON, FOR NONE LEAVE EMPTY -->
 			<url>https://www.google.de</url> 															<!-- URL TO FOLLOW UP WITH HTTP:// !! -->
 		</entry>
 		<!-- REMOVE THIS LINE TO ADD MORE ENTRIES OR COPY EXISTING ONE
