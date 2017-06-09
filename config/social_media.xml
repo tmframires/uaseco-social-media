@@ -4,7 +4,7 @@
 	<!-- DEFINE THE STANDARDS YOU WANT TO USE -->
 	<!-- LOAD THE SETTINGS BY CHAT COMMAND /socialreload -->
 	<widget>
-		<height>10</height>							<!-- CHANGE THE HEIGHT OF ICON DISPLAY, BEST VIEW 10+ -->
+		<height>10</height>							<!-- CHANGE THE HEIGHT OF ICON DISPLAY, BEST VIEW >= 10 -->
 		<width>10</width>							<!-- CHANGE THE WIDTH OF ICON DISPLAY -->
 		<race>
 			<pos_y>-20</pos_y>						<!-- VERTICAL RACE POSITION OF SLIDER -->
