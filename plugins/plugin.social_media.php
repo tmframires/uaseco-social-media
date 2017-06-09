@@ -44,6 +44,7 @@ class PluginSocialMedia extends Plugin {
 	public function __construct () {
 
 		$this->setAuthor('tmf.ramires');
+		$this->setCoAuthors('undef.de');
 		$this->setVersion('1.0.0');
 		$this->setBuild('2017-06-07');
 		$this->setCopyright('2017 by tmf.ramires');
