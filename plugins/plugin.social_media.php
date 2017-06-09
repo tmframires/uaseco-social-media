@@ -164,6 +164,8 @@ $xml .= <<<EOL
  * Author:		undef.de
  * Website:		http://www.undef.name
  * License:		GPLv3
+ * Reworked by:	tmframires
+ * Website:		http://www.sachalehmann.de
  * ===================================
  */
 #Include "TextLib" as TextLib
