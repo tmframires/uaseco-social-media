@@ -94,6 +94,14 @@ class PluginSocialMedia extends Plugin {
 	#///////////////////////////////////////////////////////////////////////#
 	*/
 
+	/*
+	* ===================================
+	* Output: 		Widget @ plugin.social_media.php
+	* Reworked by:	tmframires
+	* Website:		http://www.sachalehmann.de
+	* ===================================
+	*/
+	
 	public function loadTemplate ($state) {
 
 		// Setup Widget
@@ -150,12 +158,12 @@ class PluginSocialMedia extends Plugin {
 $xml .= <<<EOL
 <script><!--
  /*
- * ----------------------------------
+ * ===================================
  * Function:	Widget @ plugin.social_media.php
- * Author:	tmf.ramires
- * Website:	http://www.sachalehmann.de
- * License:	GPLv3
- * ----------------------------------
+ * Author:		undef.de
+ * Website:		http://www.undef.name
+ * License:		GPLv3
+ * ===================================
  */
 #Include "TextLib" as TextLib
 Void Scrolling(Text ChildId, Boolean Direction) {
